@@ -7,9 +7,11 @@ This project is a solution to the **Icon Sets Pricing Card** challenge from [Fro
 - [Overview](#overview)
   - [Challenge Description](#challenge-description)
   - [Screenshots](#screenshots)
+  - [Links](#links)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Setup and Installation](#setup-and-installation)
+- [Contribution](#contribution)
 - [Usage](#usage)
 - [What I Learned](#what-i-learned)
 - [Acknowledgements](#acknowledgements)
@@ -28,7 +30,12 @@ The task was to design and implement a responsive pricing card with the followin
 
 ### Screenshots
 
-![Desktop View](Screenshot.png) <!-- Replace with screenshot URL or path -->
+![Desktop View](Screenshot.png) 
+
+### Links
+
+- Solution : [Solution](https://www.frontendpro.dev/frontend-coding-challenges/icon-sets-pricing-card-2m645LgvLil4GqPNzSFL/solutions/mSHbzhCmaMrFOCBBeahJ)
+- Live : [Live Site](https://icon-sets-pricing-card.netlify.app)
 
 ---
 
@@ -68,6 +75,12 @@ Alternatively, use a live server to launch the project for better development ex
 npm install -g live-server
 live-server
 ```
+
+---
+
+## Contribution
+
+For contribution please refer to [CONTRIBUTING File](CONTRIBUTING.md).
 
 ---
 
