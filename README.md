@@ -28,11 +28,7 @@ The task was to design and implement a responsive pricing card with the followin
 
 ### Screenshots
 
-#### Desktop View
-![Desktop View](#) <!-- Replace with screenshot URL or path -->
-
-#### Mobile View
-![Mobile View](#) <!-- Replace with screenshot URL or path -->
+![Desktop View](Screenshot.png) <!-- Replace with screenshot URL or path -->
 
 ---
 
